@@ -1,0 +1,48 @@
+{
+  "version": 1,
+  "base_track": "ゆめみてたのあたし",
+  "base_artist": "DAOKO",
+  "createdAt": "2026-01-09T00:44:31.247589Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "ゆめみてたのあたし",
+      "artist": "Daoko",
+      "has_synced": true,
+      "path": "select/01_ゆめみてたのあたし_Daoko.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Yumemiteta no Atashi [ゆめみてたのあたし]",
+      "artist": "DAOKO",
+      "has_synced": true,
+      "path": "select/02_Yumemiteta_no_Atashi_[ゆめみてたのあたし]_DAOKO.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "ゆめみてたのあたし",
+      "artist": "DAOKO",
+      "has_synced": true,
+      "path": "select/03_ゆめみてたのあたし_DAOKO.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "ゆめみてたのあたし - Yumemitetano Atashi",
+      "artist": "DAOKO",
+      "has_synced": true,
+      "path": "select/04_ゆめみてたのあたし_-_Yumemitetano_Atashi_DAOKO.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "ゆめみてたのあたし",
+      "artist": "DAOKO",
+      "has_synced": false,
+      "path": "select/pl_01_ゆめみてたのあたし_DAOKO.txt"
+    }
+  ]
+}
